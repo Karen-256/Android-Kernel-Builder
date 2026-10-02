@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "Karen-KernelSU",
+      "repo": "https://github.com/itisFarzin-Phone/kernel_daria_mt6877",
+      "branch": "20250303-A14_A15-KSU-Next",
+      "device": "Zahedan"
     },
     "withKernelSU": true,
     "toolchains": [
